@@ -26,19 +26,10 @@ Reasons:
 
 Suspicious URLs Found: 1
 
-## 🌍 Real-world Relevance
+🌍 Real-world Relevance
 
-Phishing attacks are one of the most common cybersecurity threats today.  
-This project demonstrates how Machine Learning and threat analysis techniques can help identify suspicious emails, malicious URLs, and scam-related language patterns.
+Phishing attacks are one of the most common cybersecurity threats today.
 
-## 🌍 Real-world Relevance
-
-Phishing attacks are one of the most common cybersecurity threats today.  
-This project demonstrates how Machine Learning and threat analysis techniques can help identify suspicious emails, malicious URLs, and scam-related language patterns.
-
-## 🌍 Real-world Relevance
-
-Phishing attacks are one of the most common cybersecurity threats today.  
 This project demonstrates how Machine Learning and threat analysis techniques can help identify suspicious emails, malicious URLs, and scam-related language patterns.
 
 The system is designed for educational and cybersecurity awareness purposes.
