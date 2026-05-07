@@ -116,7 +116,7 @@ print("==============================")
 if prediction[0] == 1 or suspicious_found:
 
     print(Fore.RED + "⚠️ Threat Level: HIGH")
-    print(Fore.RED + "Prediction: PHISHING")
+    print(Fore.RED + "Final Classification: PHISHING")
 
     print("\nReasons:")
 
@@ -128,4 +128,4 @@ if prediction[0] == 1 or suspicious_found:
 
 else:
     print("✅ Threat Level: LOW")
-    print(Fore.GREEN + "Prediction: SAFE")
+    print(Fore.GREEN + "Final Classification: SAFE")
