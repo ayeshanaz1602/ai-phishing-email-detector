@@ -12,6 +12,13 @@ A Machine Learning-based cybersecurity tool that detects phishing emails using N
 - Confusion matrix evaluation
 - 97%+ model accuracy
 
+## ⚙️ Installation & Usage
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/ayeshanaz1602/ai-phishing-email-detector.git
+
 ## 📊 Sample Threat Analysis
 
 ```text
